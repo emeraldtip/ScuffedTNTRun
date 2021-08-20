@@ -1,0 +1,9 @@
+According to all known laws of aviation
+
+Mäke noteblock ting make it into like an actual game
+How? 
+	Have the beats have an int that counts up every like beat or something
+	and then have some beats to check notes on.
+	Maybe under the noteblock check have like a thing that detects if a certain noteblock needs to be played.
+	Then with that run a function for each block separately and check if they have to be played.
+	Since each beat is every 10 ticks then we can have a +-3 tick thing that in that range it will count.

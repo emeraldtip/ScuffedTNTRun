@@ -1,0 +1,21 @@
+name: TNTRun
+main: CpnSparklezSurprise.TntGame.Main
+version: 1.0
+commands:
+   test:
+      description: test
+      usage: /test
+      permission: exteme.bruh.moment
+      permission-message: Bruh moment
+   sotp:
+      description: sotp
+      usage: /sotp
+      permission: exteme.bruh.moment
+      permission-message: Bruh moment
+   run:
+      description: Run for your life
+      usage: /run
+permissions:
+      extreme.bruh.moment:
+          description: Burh moemtn
+          default: op
